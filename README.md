@@ -17,7 +17,7 @@ The Student Registration Portal is a comprehensive university system designed to
 ## Installation
 1. *Clone the Repository*:
     bash
-    git clone https://github.com/DuryodhanDeep/Student-Registration-Portal.git
+    git clone https://github.com/Himanshu-kumarr/Student-Registration-Portal.git
     
 2. *Navigate to the Project Directory*:
     bash
