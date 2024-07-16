@@ -1,5 +1,4 @@
 # Student-Registration-Portal
-# Student Registration Portal
 
 ## Introduction
 The Student Registration Portal is a comprehensive university system designed to facilitate the management and access of student information. This portal provides distinct roles and functionalities for students, instructors, and administrators, ensuring a streamlined and secure environment for managing academic data.
